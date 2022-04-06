@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <img src='https://user-images.githubusercontent.com/69270095/124479323-89a66a00-dd7c-11eb-868f-b1b8d3b56e39.png' width="30vw"/> React | 
  <img src='https://user-images.githubusercontent.com/69270095/124943502-ec00a400-dfe2-11eb-94c0-40bd52557ceb.png' width="30vw"/> Node  | 
  <img src = "https://user-images.githubusercontent.com/78218488/161928275-151e6d5a-4513-4c4c-85de-4c814ce2593a.png" width="35vw"/> MongoDB | 
-  <img src = "https://github.com/JulianElisii/JulianElisii/issues/3#issue-1194506414" width="35vw"/> Bootstrap
+  <img src = "https://user-images.githubusercontent.com/78218488/161969114-2c3009b2-4002-41eb-a64f-fe41ced9b2e8.jpeg" width="35vw"/> Bootstrap
 </p>
 
 <p align="center">
