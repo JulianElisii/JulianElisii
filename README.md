@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src = "https://user-images.githubusercontent.com/78218488/161928275-151e6d5a-4513-4c4c-85de-4c814ce2593a.png" width="50vw"/> MongoDB
- <img src='https://user-images.githubusercontent.com/69270095/124945111-3f272680-dfe4-11eb-8491-dc17abfed829.png' width="50vw"/> PostgreSQL | 
- <img src='https://user-images.githubusercontent.com/69270095/124945575-aa70f880-dfe4-11eb-8ef0-28abbbfc5df9.png' width="30vw"/> Sequelize 
+ <img src='https://user-images.githubusercontent.com/78218488/161930415-5a239fdb-6793-4345-83f5-ab579ecce321.jpg' width="50vw"/> Linux | 
 </p>
 
 <p align="center">
