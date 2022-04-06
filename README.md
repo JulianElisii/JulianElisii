@@ -45,10 +45,13 @@ Here are some ideas to get you started:
 </p>
 
 ---
-## <p align=center>Contact</p>
-<p align='center'>
-<a href='https://www.linkedin.com/in/facundo-vaena/'><img src='https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' width='300px'/></a>
-</p>
+
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!--
 **Facundo-Vaena/Facundo-Vaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://th.bing.com/th/id/Rf59f0a27ba86025122b3ae5901a61c2c?rik=Ho1hj9vmK15%2bNQ&pid=ImgRaw)
