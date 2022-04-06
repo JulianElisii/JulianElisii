@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Header](https://github.com/JulianElisii/JulianElisii/blob/master/github-header.png?raw=true)
 # <P align=center>Hola, Mi nombre es Julian ! 👋</p>
 
 ---
