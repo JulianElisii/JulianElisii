@@ -2,7 +2,7 @@
 
 <!--
 **JulianElisii/JulianElisii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src='' height='250' width=100%/>
+
 
 -->
 # <P align=center>Mi nombre es Julian</p>
