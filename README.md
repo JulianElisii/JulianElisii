@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  <img src='https://user-images.githubusercontent.com/69270095/124943502-ec00a400-dfe2-11eb-94c0-40bd52557ceb.png' width="30vw"/> Node 
 </p>
 
-<p align="center">
- <img src='https://user-images.githubusercontent.com/69270095/124944514-bf995780-dfe3-11eb-8d29-2df6d0a44bbb.png' width="40vw"/> Redux | 
+<p align="centr">
+ <img src='tsg' width="40vw"/> 
  <img src='https://user-images.githubusercontent.com/69270095/124945111-3f272680-dfe4-11eb-8491-dc17abfed829.png' width="50vw"/> PostgreSQL | 
  <img src='https://user-images.githubusercontent.com/69270095/124945575-aa70f880-dfe4-11eb-8ef0-28abbbfc5df9.png' width="30vw"/> Sequelize 
 </p>
