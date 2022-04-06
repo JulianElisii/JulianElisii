@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 ---
 
 ### You can find in me in the web 🌍
+<p align="center">
 [<a href='https://www.linkedin.com/in/juli%C3%A1n-elisii-29592b19b'><img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+ </p>
 <!--
 Here are some ideas to get you started:
 <img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width=100%/>
