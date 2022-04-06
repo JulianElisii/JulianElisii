@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### <p align=center> You can find in me in the web 🌍</p>
 <p align=center>
-<a href='https://www.linkedin.com/in/juli%C3%A1n-elisii-29592b19b'><img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" <a href='https://www.linkedin.com/in/juli%C3%A1n-elisii-29592b19b'></a> />
  </p>
 <!--
 Here are some ideas to get you started:
