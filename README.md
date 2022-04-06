@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # <P align=center>Hola, Mi nombre es Julian ! 👋</p>
 
 ---
-### <p align=center>Technical Skills</p>
+### <p align=center>Languages and Tools</p>
 
 <p align="center">
  <img src='https://user-images.githubusercontent.com/69270095/124473337-92e00880-dd75-11eb-8439-6a8077f457d2.png' width="30vw"/> Javascript | 
