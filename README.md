@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[About Me](https://raw.githubusercontent.com/JulianElisii/martins-rafael/master/bio.gif)
-
+![Header](https://github.com/sneyderdev/sneyderdev/blob/master/github-header.png?raw=true)
 # <P align=center>Hola, Mi nombre es Julian ! 👋</p>
 
 ---
