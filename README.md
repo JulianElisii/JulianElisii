@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 -->
 # <P align=center>Hola, Mi nombre es Julian ! 👋</p>
 ---
----
 
-### <p align=center> You can find in me in the web 🌍</p>
-<p align=center>
-<a href='https://www.linkedin.com/in/juli%C3%A1n-elisii-29592b19b'><img align="center" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
- </p>
-<!--
 
 ### <p align=center>Languages and Tools</p>
 
@@ -47,6 +41,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianElisii&show_icons=true&theme=tokyonight" />
 </p>
 
+---
+
+### <p align=center> You can find in me in the web 🌍</p>
+<p align=center>
+<a href='https://www.linkedin.com/in/juli%C3%A1n-elisii-29592b19b'><img align="center" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+ </p>
 <!--
 
 
