@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 ---
 ## <p align=center> Stats </p>
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=Facundo-Vaena&show_icons=true&theme=tokyonight' />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianElisii&show_icons=true&theme=tokyonight" />
-<br></br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Vaena&theme=tokyonight />
+<img src='https://github-readme-stats.vercel.app/api?username=JulianElisii&show_icons=true&theme=tokyonight' />
+ <br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianElisii&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
