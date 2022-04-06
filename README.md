@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width=100%/>
+[About Me](https://raw.githubusercontent.com/JulianElisii/martins-rafael/master/bio.gif)
 
 # <P align=center>Hola, Mi nombre es Julian ! 👋</p>
 
