@@ -8,6 +8,10 @@
 # <P align=center> 👨‍💻 Mi nombre es Julian <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></p>
 ---
 
+-->
+# <P align=center> 👨‍💻 Full-Stack Developer</p>
+---
+
 
 ### <p align=center>Languages and Tools</p>
 
