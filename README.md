@@ -9,7 +9,7 @@
 ---
 
 -->
-### <P align=center> ![image](https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png) width="30vw"
+### <P align=center> <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="30vw"/>
 Full-Stack Developer </p>
 ---
 
