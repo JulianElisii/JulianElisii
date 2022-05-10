@@ -9,8 +9,8 @@
 ---
 
 -->
-### <P align=center> <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="100vw"/>
-Full-Stack Developer </p>
+### <P align=center> Full-Stack Developer  <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="1000vw"/>
+</p>
 ---
 
 
