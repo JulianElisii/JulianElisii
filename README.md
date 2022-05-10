@@ -5,14 +5,8 @@
 
 
 -->
-# <P align=center> 👨‍💻 Mi nombre es Julian <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></p>
+# <P align=center> 👨‍💻 Mi nombre es Julian <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="500vw"/> Full-Stack Developer</p>
 ---
-
-### <P align=center> Full-Stack Developer  <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="500vw"/>
-</p>
----
-
-
 ### <p align=center>Languages and Tools</p>
 
 <p align="center">
