@@ -5,7 +5,7 @@
 
 
 -->
-# <P align=center> Mi nombre es Julián <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="300vw"/> Full-Stack Developer</p>
+# <P align=center> Mi nombre es Julián <img src='https://user-images.githubusercontent.com/78218488/167673822-3e523cc1-ccde-40d1-9891-461492fbb268.png' width="300vw"/> Full-Stack Developer  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F466615211382853126%2F&psig=AOvVaw07z1mCL31oht-9L-9_IKk8&ust=1652343579101000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCj4dSB1_cCFQAAAAAdAAAAABAQ' width="30vw"/></p>
 ---
 ### <p align=center>Languages and Tools</p>
 
