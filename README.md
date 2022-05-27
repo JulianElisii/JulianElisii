@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+ <img src='http://nightdeveloper.net/wp-content/uploads/2018/01/logo-1.png' width="40vw"/> Redux |
  <img src='https://user-images.githubusercontent.com/78218488/161930415-5a239fdb-6793-4345-83f5-ab579ecce321.jpg' width="60vw"/> Linux | 
  <img src='https://user-images.githubusercontent.com/69270095/124947996-b1990600-dfe6-11eb-8dbe-2ef86afccd38.png' width="35vw"/> Express |
  <img src='https://user-images.githubusercontent.com/69270095/124946896-c4f7a180-dfe5-11eb-9a47-03c1091c5bda.png' width="30vw"/> CSS3 |
